@@ -1,3 +1,9 @@
+在线体验地址:http://129.204.72.122/tomato/
+
+使用vue-cli 3.0生成的vue项目
+
+项目中使用了 element ui组件库
+
 # tomato
 
 ## Project setup
